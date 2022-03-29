@@ -1,0 +1,9 @@
+{
+  "name": "@empreinte-digitale/prettier-config",
+  "version": "1.0.0",
+  "description": "Our shared Prettier configuration",
+  "main": "index.json",
+  "repository": "git@github.com:empreinte-digitale/prettier-config.git",
+  "author": "Jocelyn Bernard <jocelyn.bernard@empreintedigitale.coop>",
+  "license": "MIT"
+}
